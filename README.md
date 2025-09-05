@@ -5,7 +5,7 @@ This is my very first game made with 'Godot Engine'.
 This is a simple 2D game developed as a learning experience.
 
 소개 (Introduction)
-본 2D 게임은 제가 Godot 엔진을 처음 배워가면 만든 연습용 게임입니다. 아직 부족하지만, 게임 개발의 재미를 배우고 스스로 게임을 완성해 가는 과정입니다.
+본 2D 게임은 제가 Godot 엔진을 처음 배워가며 만든 연습용 게임입니다. 아직 부족하지만, 게임 개발의 재미를 배우고 스스로 게임을 완성해 가는 과정입니다.
 
 게임 실행 방법 (How to Run)
 1. Godot 4.x 버전으로 프로젝트를 엽니다.
